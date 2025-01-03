@@ -1,0 +1,47 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+data/*
+!data/.gitkeep
+
+# Models
+models/*
+!models/.gitkeep
+
+# Environment
+.env
+*.env
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.pkl
+*.h5
+*.ckpt
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# Python virtual environments
+venv/
+.env/
+
+# Kaggle
+kaggle.json
+
+# VSCode
+!.vscode/
