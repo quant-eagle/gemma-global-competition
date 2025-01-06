@@ -45,3 +45,6 @@ kaggle.json
 
 # VSCode
 !.vscode/
+
+# Program cache
+cache/
