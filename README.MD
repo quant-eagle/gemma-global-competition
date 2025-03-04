@@ -17,7 +17,6 @@ There's a still a possibility for more efficient fine tune (training) using RL t
 ## Repository Structure
 - **data/**: Directory for datasets used in training and evaluation.
 - **models/**: Directory to save trained models and checkpoints.
-- **scripts/**: Python scripts for repetitive tasks like data cleaning and format conversion.
 
 ## Usage
 You can either run the poc (proof of concept) notebook or the final submission one.
